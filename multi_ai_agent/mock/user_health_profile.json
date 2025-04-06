@@ -1,0 +1,33 @@
+{
+    "user_health_profile": {
+        "current_conditions": [
+            {
+                "id": "HC01",
+                "name": "Diabetes",
+                "restrictions": ["High-GI foods", "Refined sugar", "White rice", "Maida"]
+            },
+            {
+                "id": "HC02",
+                "name": "Hypertension",
+                "restrictions": ["High-sodium foods", "Fried foods", "Pickles", "Processed foods"]
+            },
+            {
+                "id": "HC03",
+                "name": "Thyroid (Hypothyroidism)",
+                "restrictions": ["Excess soy", "Raw cruciferous vegetables", "High-sugar foods"]
+            }
+        ],
+        "past_conditions": [
+            {
+                "id": "HC04",
+                "name": "Iron Deficiency (Anemia)",
+                "restrictions": ["Excess caffeine", "High-dairy diet"]
+            },
+            {
+                "id": "HC05",
+                "name": "Acid Reflux (GERD)",
+                "restrictions": ["Spicy foods", "Citrus fruits", "Caffeine"]
+            }
+        ]
+    }
+}

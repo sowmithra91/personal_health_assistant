@@ -1,0 +1,9 @@
+langgraph
+langgraph-sdk
+langchain-core
+langchain_community
+langchain_openai
+langgraph-cli[inmem]
+dotenv==0.9.9
+pymongo==4.11.1
+openai==1.65.2

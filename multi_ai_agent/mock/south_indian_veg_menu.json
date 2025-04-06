@@ -1,0 +1,125 @@
+{
+    "restaurant": "South Indian Veg Delight",
+    "items": [
+        {
+            "id": "SI01",
+            "name": "Masala Dosa",
+            "price": 5.99,
+            "description": "Crispy rice pancake with spiced potato filling"
+        },
+        {
+            "id": "SI02",
+            "name": "Idli Sambar",
+            "price": 4.99,
+            "description": "Steamed rice cakes with lentil soup"
+        },
+        {
+            "id": "SI03",
+            "name": "Vegetable Uttapam",
+            "price": 6.49,
+            "description": "Thick pancake with vegetable toppings"
+        },
+        {
+            "id": "SI04",
+            "name": "Ragi Dosa",
+            "price": 6.99,
+            "description": "Healthy finger millet dosa, ideal for diabetes and weight loss"
+        },
+        {
+            "id": "SI05",
+            "name": "Moong Dal Chilla",
+            "price": 5.49,
+            "description": "Protein-rich pancake made from moong dal, perfect for weight loss and digestion"
+        },
+        {
+            "id": "SI06",
+            "name": "Millet Pongal",
+            "price": 6.99,
+            "description": "A light and nutritious dish made from millets and moong dal"
+        },
+        {
+            "id": "SI07",
+            "name": "Pepper Rasam",
+            "price": 4.49,
+            "description": "Spicy and tangy tamarind soup with black pepper, great for digestion and immunity"
+        },
+        {
+            "id": "SI08",
+            "name": "Jeera Rice",
+            "price": 5.99,
+            "description": "Fragrant basmati rice with cumin seeds, suitable for digestion and acidity"
+        },
+        {
+            "id": "SI09",
+            "name": "Ragi Mudde with Sambar",
+            "price": 7.49,
+            "description": "Traditional ragi balls served with protein-rich sambar, ideal for diabetes and heart health"
+        },
+        {
+            "id": "SI10",
+            "name": "Curd Rice",
+            "price": 4.99,
+            "description": "Cooling yogurt rice, excellent for digestion and gut health"
+        },
+        {
+            "id": "SI11",
+            "name": "Tomato Rasam",
+            "price": 4.79,
+            "description": "Tangy and mildly spiced tomato-based soup"
+        },
+        {
+            "id": "SI12",
+            "name": "Vegetable Kurma with Parotta",
+            "price": 7.99,
+            "description": "Rich coconut-based vegetable curry served with flaky layered bread"
+        },
+        {
+            "id": "SI13",
+            "name": "Oats Upma",
+            "price": 5.49,
+            "description": "Healthy upma made from fiber-rich oats and vegetables"
+        },
+        {
+            "id": "SI14",
+            "name": "Kambu (Bajra) Idli",
+            "price": 6.49,
+            "description": "Pearl millet idli, a diabetic-friendly and high-fiber alternative"
+        },
+        {
+            "id": "SI15",
+            "name": "Avial",
+            "price": 6.99,
+            "description": "Mixed vegetable stew in a coconut and yogurt base"
+        },
+        {
+            "id": "SI16",
+            "name": "Keerai Masiyal",
+            "price": 5.99,
+            "description": "Mashed spinach with lentils, rich in iron and great for anemia"
+        },
+        {
+            "id": "SI17",
+            "name": "Lemon Rice",
+            "price": 5.49,
+            "description": "Zesty rice dish with lemon juice and tempered spices"
+        },
+        {
+            "id": "SI18",
+            "name": "Vazhaipoo Vadai",
+            "price": 6.49,
+            "description": "Banana flower fritters, a traditional South Indian delicacy"
+        },
+        {
+            "id": "SI19",
+            "name": "Badam Halwa",
+            "price": 7.99,
+            "description": "Rich and delicious almond-based dessert"
+        },
+        {
+            "id": "SI20",
+            "name": "Dry Fruit Payasam",
+            "price": 6.99,
+            "description": "A nutritious dessert with dry fruits and jaggery, ideal for energy boost"
+        }
+    ]
+}
