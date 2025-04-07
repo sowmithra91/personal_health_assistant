@@ -14,6 +14,7 @@ from agents.fall_back_llm_agent import FallBackLLMAgent
 import logging
 from agents.prompts import restaurant_agent_prompt, health_profile_agent_prompt, diet_recommender_agent_prompt
 from langgraph.prebuilt import create_react_agent
+from typing import Optional, List
 
 logging.basicConfig(level=logging.INFO)
 logger = logging.getLogger(__name__)
@@ -22,8 +23,8 @@ logger = logging.getLogger(__name__)
 load_dotenv()
 
 class CustomAgentState(MessagesState):
-    next: str
-    chain_of_thought: list = []
+    next: Optional[str] = None
+    chain_of_thought: Optional[List[str]] = []
 
 class Router(TypedDict):
     """
