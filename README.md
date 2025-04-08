@@ -20,6 +20,13 @@ Ensure you have Python installed on your system. You can download it from [pytho
    pip install -r requirements.txt
    ```
 
+3. **Configure Environment Variables**  
+   Update the `.env` file located in the `multi_ai_agent` directory with your own API keys by adding the following:
+    ```bash
+    OPENAI_API_KEY=<OPENAI_API_KEY>
+    LANGSMITH_API_KEY=<LANGSMITH_API_KEY>
+    ```
+
 ### Running the Application
 1. **Start the LangGraph Application**  
    Launch the development server using the following command from the `multi_ai_agent` directory:  
