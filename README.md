@@ -4,7 +4,7 @@ An Agentic AI Implementation of a Health Assistant Persona with LangGraph
 ## Getting Started
 
 ### Prerequisites
-Ensure you have Python installed on your system. You can download it from [python.org](https://www.python.org/) if needed. This project is compatible with Python 3.8 or higher.
+Ensure you have Python installed on your system. You can download it from [python.org](https://www.python.org/) if needed. This project has been tested with Python 3.13.0.
 
 ### Installation
 1. **Clone the Repository**  
