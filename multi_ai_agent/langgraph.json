@@ -1,7 +1,8 @@
 {
     "dependencies": "requirements.txt",
     "graphs": {
-        "diet_supervisor_agent": "./agents/diet_supervisor_agent.py:supervisor_graph_agent"
+        "diet_supervisor_agent": "./agents/diet_supervisor_agent.py:supervisor_graph_agent",
+        "mcp_agent": "./agents/diet_supervisor_mcp_agent.py:make_graph"
     },
     "env": "./.env"
 }
