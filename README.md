@@ -28,7 +28,16 @@ Ensure you have Python installed on your system. You can download it from [pytho
     ```
 
 ### Running the Application
-1. **Start the LangGraph Application**  
+1. **Start the MCP Servers**
+   Lauch the restaurant_mcp_server and health_profile_mcp usinng the following commands from the `multi_ai_agent` directory:
+   ```bash
+   python restaurant.py
+   ```
+   ```bash
+   python health_profile.py
+   ```
+
+2. **Start the LangGraph Application**  
    Launch the development server using the following command from the `multi_ai_agent` directory:  
    ```bash
    langgraph dev
